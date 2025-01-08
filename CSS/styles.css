@@ -6,3 +6,8 @@
     margin-top: 50px;
     color: antiquewhite;
 }
+
+.card-deck {
+    margin: auto 2vw;
+    padding-top: 20px;
+}
